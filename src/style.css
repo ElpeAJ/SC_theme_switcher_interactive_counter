@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffffff;
+    color: #333333;
+    transition: background 0.3s, color 0.3s;
+    padding-top: 50px;
+}
+
+.counter-container {
+    margin-top: 40px;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+
+/* Add dark theme styles here */
